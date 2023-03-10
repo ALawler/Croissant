@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(247, 230, 179);
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  padding-inline: 40px;
+}
